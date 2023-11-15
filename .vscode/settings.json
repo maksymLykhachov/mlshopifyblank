@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.fontFamily": "\"MesloLGM Nerd Font\"",
+    "[scss]": {
+        "editor.defaultFormatter": "sissel.shopify-liquid",
+        "editor.formatOnSave": true
+    }
+}

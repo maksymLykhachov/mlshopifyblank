@@ -1,0 +1,26 @@
+{
+  "general": {
+    "404": {
+      "title": "Not found",
+      "subtext_html": "The page you were looking for does not exist"
+    }
+  },
+  "sections": {
+    "header": {
+      "cart_count": {
+        "one": "{{ count }} item",
+        "other": "{{ count }} items"
+      }
+    }
+  },
+  "cart": {
+    "view": "View cart ({{ count }})",
+    "view_empty_cart": "View cart",
+    "item_added": "Item added to your cart"
+  },
+  "templates": {
+    "cart": {
+      "cart": "Cart"
+    }
+  }
+}

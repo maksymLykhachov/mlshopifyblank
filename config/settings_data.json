@@ -1,0 +1,23 @@
+{
+  "current": {
+    "checkout_header_image": "shopify:\/\/shop_images\/apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-sport-band-mpln3-1_5.webp",
+    "checkout_accent_color": "#000000",
+    "checkout_button_color": "#000000",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "mobile_menu_title": "Menu",
+          "menu": "main-menu"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
+  "presets": {
+    "Default": {
+    }
+  }
+}

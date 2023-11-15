@@ -1,0 +1,19 @@
+{
+  "sections": {
+    "template": {
+      "type": "template-page",
+      "settings": {
+      }
+    },
+    "3915526d-ae29-45b4-a170-261d41e5045e": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Please leave a feedback"
+      }
+    }
+  },
+  "order": [
+    "template",
+    "3915526d-ae29-45b4-a170-261d41e5045e"
+  ]
+}

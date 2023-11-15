@@ -1,0 +1,16 @@
+{
+  "sections": {
+    "template": {
+      "type": "template-404",
+      "settings": {
+        "title": "404",
+        "subtext_title": "The page that you're looking for is not found",
+        "button_label": "Back to products",
+        "button_url": "shopify:\/\/collections\/all"
+      }
+    }
+  },
+  "order": [
+    "template"
+  ]
+}
