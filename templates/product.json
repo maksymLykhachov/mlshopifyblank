@@ -18,7 +18,8 @@
                 "variant_selector",
                 "quantity",
                 "description",
-                "checkout_buttons"
+                "checkout_buttons",
+                "collapsible_tab"
             ]
         }
     },
